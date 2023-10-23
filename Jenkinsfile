@@ -6,6 +6,7 @@ pipeline {
                 sleep 10
                 echo 'Clarusway_Way to Reinvent Yourself'
                 sh 'echo Integrating Jenkins Pipeline with GitHub Webhook using Jenkinsfile'
+                echo 'Sheldon to jenkins'
             }
         }
     }
